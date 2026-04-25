@@ -1,0 +1,357 @@
+{
+  "channels": [
+    {
+      "name": "1 არხი",
+      "category": "GEORGIA",
+      "streamUrls": ["https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8"],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/ge1.png"
+    },
+    {
+      "name": "2 არხი",
+      "category": "GEORGIA",
+      "streamUrls": ["https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/ge2.png"
+    },
+    {
+      "name": "სილქ უნივერსალ",
+      "category": "SILK SPORT",
+      "streamUrls": [
+        "https://tv-new.silkgo.ge/embed.html?epg=false&ads=false&watermark=false&channels=false&forceDesktop=true&dvr=false&PlayerMuted=false&filterChannels=silk_sport4&hoverControls=true&progressbar=true&controls=true"
+      ],
+      "isIframe": true,
+      "logo": "https://livechannels.ge/image/silk-universal.png"
+    },
+    {
+      "name": "Eurosport",
+      "category": "GERMANY",
+      "streamUrls": [
+        "https://bde.online24.pm/play/15/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/15/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Eurosport-1.png"
+    },
+    {
+      "name": "Eurosport 2",
+      "category": "GERMANY",
+      "streamUrls": [
+        "https://bde.online24.pm/play/43/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/43/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Eurosport-2.png"
+    },
+    {
+      "name": "Setanta Sports Premium HD",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/1650/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/1650/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/SetantaSportsPremium-HD.png"
+    },
+    {
+      "name": "Setanta Sports Ukraine",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/1434/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/1434/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Setanta-Sports-Ukraine.png"
+    },
+    {
+      "name": "Setanta Sports 1 HD",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/942/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/942/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/setanta-sports1.png"
+    },
+    {
+      "name": "Setanta Sports 2 HD",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/943/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/943/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/setanta-sports2.png"
+    },
+    {
+      "name": "Setanta Qazaqstan",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/5094/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/5094/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/setanta-kz.png"
+    },
+    {
+      "name": "Матч! Футбол 1 HD",
+      "category": "FOOTBALL",
+      "streamUrls": [
+        "https://bde.online24.pm/play/260/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/54/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Матч!-Футбол1.png"
+    },
+    {
+      "name": "Матч! Футбол 2 HD",
+      "category": "FOOTBALL",
+      "streamUrls": [
+        "https://bde.online24.pm/play/271/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/271/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Матч!-Футбол2.png"
+    },
+    {
+      "name": "Матч! Футбол 3 HD",
+      "category": "FOOTBALL",
+      "streamUrls": [
+        "https://bde.online24.pm/play/329/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/329/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Матч!-Футбол3.png"
+    },
+    {
+      "name": "Матч! ПРЕМЬЕР",
+      "category": "FOOTBALL",
+      "streamUrls": [
+        "https://bde.online24.pm/play/250/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/37/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Матч-Премьер.png"
+    },
+    {
+      "name": "Матч Арена",
+      "category": "ARENA",
+      "streamUrls": [
+        "https://bde.online24.pm/play/146/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/136/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Матч-Арена.png"
+    },
+    {
+      "name": "Матч! Планета",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/14/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/14/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Матч-Планета.png"
+    },
+    {
+      "name": "Матч! HD",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/397/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/397/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Матч-ТВ.png"
+    },
+    {
+      "name": "МАТЧ! Страна",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/212/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/134/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Матч!-Футбол3.png"
+    },
+    {
+      "name": "Матч! Игра",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/268/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/153/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "https://livechannels.ge/image/Матч-Игра.png"
+    },
+    {
+      "name": "Megogo Спорт HD",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/1001/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/1001/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "MG"
+    },
+    {
+      "name": "Матч! Боец HD",
+      "category": "COMBAT",
+      "streamUrls": [
+        "https://bde.online24.pm/play/30/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/30/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "MB"
+    },
+    {
+      "name": "Бокс ТВ",
+      "category": "BOXING",
+      "streamUrls": [
+        "https://bde.online24.pm/play/482/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/482/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "BX"
+    },
+    {
+      "name": "Extreme Sports",
+      "category": "EXTREME",
+      "streamUrls": [
+        "https://bde.online24.pm/play/53/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/53/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "EX"
+    },
+    {
+      "name": "Футбол",
+      "category": "FOOTBALL",
+      "streamUrls": [
+        "https://bde.online24.pm/play/171/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/171/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "FB"
+    },
+    {
+      "name": "Viju+ Sport HD",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/198/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/77/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "VJ"
+    },
+    {
+      "name": "Окко Спорт HD",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/7337/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/7337/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "OK"
+    },
+    {
+      "name": "Окко Футбол HD",
+      "category": "FOOTBALL",
+      "streamUrls": [
+        "https://bde.online24.pm/play/7338/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/7338/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "OF"
+    },
+    {
+      "name": "Старт HD",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/9946/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/9946/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "ST"
+    },
+    {
+      "name": "Конный мир HD",
+      "category": "EQUESTRIAN",
+      "streamUrls": [
+        "https://bde.online24.pm/play/394/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/394/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "KM"
+    },
+    {
+      "name": "KHL Prime",
+      "category": "HOCKEY",
+      "streamUrls": [
+        "https://bde.online24.pm/play/177/7D6EC0CC5598A28/video.m3u8",
+        "http://bpl.online24.pm/play/177/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "KH"
+    },
+    {
+      "name": "NBA TV",
+      "category": "BASKETBALL",
+      "streamUrls": [
+        "https://bde.online24.pm/play/9984/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/9984/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "NB"
+    },
+    {
+      "name": "Мир Баскетбола",
+      "category": "BASKETBALL",
+      "streamUrls": [
+        "https://bde.online24.pm/play/8831/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/8831/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "MBK"
+    },
+    {
+      "name": "Авто Плюс",
+      "category": "MOTORSPORT",
+      "streamUrls": [
+        "https://bde.online24.pm/play/29/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/29/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "AP"
+    },
+    {
+      "name": "Спортивный",
+      "category": "SPORTS",
+      "streamUrls": [
+        "https://bde.online24.pm/play/6159/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/6159/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "SPT"
+    },
+    {
+      "name": "UDAR",
+      "category": "COMBAT",
+      "streamUrls": [
+        "https://bde.online24.pm/play/4111/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/4111/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "UD"
+    },
+    {
+      "name": "UFC ТВ HD",
+      "category": "COMBAT",
+      "streamUrls": [
+        "https://bde.online24.pm/play/1777/7D6EC0CC5598A28/video.m3u8",
+        "https://bpl.online24.pm/play/1777/7D6EC0CC5598A28/video.m3u8"
+      ],
+      "isIframe": false,
+      "logo": "UF"
+    }
+  ]
+}
